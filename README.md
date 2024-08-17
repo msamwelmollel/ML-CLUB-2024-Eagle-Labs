@@ -1,4 +1,4 @@
-# ML Club 2024 - Eagle Labs
+# ML Club 2024 - Eagle Labs Glasgow
 
 This repository contains the code developed for the Presentation at ML Club 2024 at Eagle Labs. The primary focus of this project is to evaluate different chunking strategies used in retrieval-augmented generation (RAG) models, with a specific emphasis on visualizing the RAGAS Score.
 
